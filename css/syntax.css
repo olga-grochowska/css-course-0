@@ -1,14 +1,16 @@
-/************************************
-*
-* Author: Olga Grochowska 
-* Date: 21.04.2022
-*
-************************************/
+body {
+    color: red;
+}
 
-span{
+div {
     color: blue;
 }
 
-span{
-    color: red;
+p {
+    color: green;
+}
+
+a {
+    color: yellow;
+    text-decoration: underline;
 }
