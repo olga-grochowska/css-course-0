@@ -1,3 +1,7 @@
-article h2, article p {
-    font-family: Arial, Helvetica, sans-serif;
+a {
+    text-decoration: none;
+}
+
+h2 {
+    text-decoration: underline;
 }
