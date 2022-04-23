@@ -1,7 +1,10 @@
-.static-width {
-    width: 300px;
-    height: 300px;
-    background: url(http://bezpieczneoszczedzanie.com.pl/wp-content/uploads/2014/07/gospodarka-symbol-procent-z-strza%C5%82ka-w-gor%C4%99_318-60938.jpg) no-repeat center;
+#banner {
     background-color: #606060;
-    background-size: 200px;
+    width: 100%;
+    height: 300px;
+    background-image: url(http://anonco.pl/contents/icons/office/card-1.png), 
+    url(https://images.freeimages.com/images/large-previews/a31/colorful-umbrella-1176220.jpg);
+    background-repeat: no-repeat;
+    background-position: center, top left;
+    background-size: 200px, 100%;
 }
