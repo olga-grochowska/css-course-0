@@ -1,22 +1,9 @@
-#main-content div {
-    background-color: #ccc;
-    margin: 0 0 20px 0;
-}
-
 .static-width {
     width: 300px;
-    height: 100px;
-    border-radius: 30px;
-}
-
-.percentage-width {
-    width: 70%;
-    height: 50px;
-    border-radius: 10px 20px;
-}
-
-.inline-block {
-    width: 100px;
-    height: 100px;
-    border-radius: 50px;
+    height: 300px;
+    background-color: #606060;
+    background-image: url(http://bezpieczneoszczedzanie.com.pl/wp-content/uploads/2014/07/gospodarka-symbol-procent-z-strza%C5%82ka-w-gor%C4%99_318-60938.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 200px;
 }
